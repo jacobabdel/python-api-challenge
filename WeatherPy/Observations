@@ -1,0 +1,7 @@
+Observation #1
+  Max temperature of cities is related to the Latitude. Cities closer to the equator have higher max temperatures which is expected.
+Observation #2
+  Other observed metrics (humidity, cloudiness, wind speed) do not appear to be related to the Latitude of the city. This is evident in the distribution of points in the scatter plots.
+Observation #3
+  Humidity is more likely related to time of year.
+  Cloudiness & wind speed are probably more variable and depend on time data was measured/pulled.
